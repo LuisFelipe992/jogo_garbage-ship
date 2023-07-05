@@ -12,4 +12,4 @@ Inclusão de ícones especiais para reciclar e zerar a quantidade de carga do na
 Fim de jogo quando a poluição atinge 100%.
 
 
-Config files for my GitHub profile.
+Garbage ship - jogo sobre meio ambiente
